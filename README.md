@@ -1,19 +1,37 @@
-# PRODIGY_WD_01
+# Responsive Landing Page
 
-## Task-01: Responsive Landing Page with Interactive Navigation Menu
+A responsive landing page with an interactive fixed navigation menu built with HTML, CSS, and JavaScript.
 
-### Description
-A responsive landing page with a fixed navigation bar that changes style on scroll and hover.
+## Overview
 
-### Features
+This project was developed as Task 01 of the Prodigy InfoTech Web Development Internship. It demonstrates a simple, polished landing page with scroll-based navigation styling and responsive layout behavior.
+
+## Features
+
 - Fixed navigation menu
-- Hover and scroll effects
-- Responsive design
+- Scroll-based navbar styling
+- Hover interactions
+- Responsive layout
+- Lightweight HTML, CSS, and JavaScript implementation
 
-### Tech Stack
+## Tech Stack
+
 - HTML
 - CSS
 - JavaScript
 
-### Author
+## Project Structure
+
+```text
+index.html
+styles.css
+script.js
+```
+
+## Author
+
 Gowsic M S
+
+## Internship
+
+Prodigy InfoTech - Web Development Internship
